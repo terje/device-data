@@ -1,2 +1,3 @@
-# device-data
-Machine-readable list of metadata about mobile devices
+# Device Data
+
+A machine-readable list of metadata about mobile devices.
